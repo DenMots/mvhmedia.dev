@@ -1,0 +1,9 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/motivatie": "pages/motivatie.js",
+  "/werk-en-ervaring/skills-and-tools": "pages/werk-en-ervaring/skills-and-tools.js",
+  "/": "pages/index.js",
+  "/werk-en-ervaring/experience": "pages/werk-en-ervaring/experience.js"
+}
